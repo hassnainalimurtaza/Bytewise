@@ -25,7 +25,7 @@
 * Usually this means “revisit” or do nothing (for now).
 * Maybe you’re still riding out some depreciation, aren’t ready to prioritize an application that was recently upgraded, or are otherwise not inclined to migrate some applications. You should only migrate what makes sense for the business; and, as the gravity of your portfolio changes from on-premises to the cloud, you’ll probably have fewer reasons to retain.
 
-AWS Snow Family
+## AWS Snow Family
 * Simple management and monitoring(AWS OpsHub is a complimentary graphical user interface (GUI) available)
 * NFS endpoint( NFS v3 and v4.1 are supported so you can easily use Snow devices with your existing on-premises servers and file-based applications)
 * On-board computing( computing resources to collect and process data at the edge. Devices run specific Amazon EC2 instances with processing and storage available to support your applications and AWS IoT Greengrass functions)
