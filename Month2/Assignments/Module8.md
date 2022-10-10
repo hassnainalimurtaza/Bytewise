@@ -145,3 +145,29 @@ Enterprise On-Ramp Support plan also provides access to a specific set of proact
 * Infrastructure Event Management support (one per year)
 * Support automation workflows
 * 30 minutes or less response time for business-critical issues
+
+## Enterprise Support
+In addition to all features included in the Basic, Developer, Business, and Enterprise On-Ramp support plans, customers with Enterprise Support have access to:
+A designated Technical Account Manager to provide proactive guidance and coordinate access to programs and AWS experts
+A Concierge support team for billing and account assistance
+Operations Reviews and tools to monitor health
+Training and Game Days to drive innovation
+Tools to monitor costs and performance through Trusted Advisor and Health API/Dashboard
+The Enterprise plan also provides full access to proactive services, which are provided by a designated Technical Account Manager:
+
+* Consultative review and architecture guidance
+* Infrastructure Event Management support
+* Cost Optimization Workshop and tools
+* Support automation workflows
+* 15 minutes or less response time for business-critical issues
+
+## Technical Account Manager (TAM)
+The Enterprise On-Ramp and Enterprise Support plans include access to a Technical Account Manager (TAM).
+The TAM is your primary point of contact at AWS. If your company subscribes to Enterprise Support or Enterprise On-Ramp, your TAM educates, empowers, and evolves your cloud journey across the full range of AWS services. TAMs provide expert engineering guidance, help you design solutions that efficiently integrate AWS services, assist with cost-effective and resilient architectures, and provide direct access to AWS programs and a broad community of experts.
+For example, suppose that you are interested in developing an application that uses several AWS services together. Your TAM could provide insights into how to best use the services together. They achieve this, while aligning with the specific needs that your company is hoping to address through the new application.
+
+# [AWS Marketplace](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/supplement/nQYuC/aws-marketplace)
+AWS Marketplace is a digital catalog that includes thousands of software listings from independent software vendors. You can use AWS Marketplace to find, test, and buy software that runs on AWS. 
+For each listing in AWS Marketplace, you can access detailed information on pricing options, available support, and reviews from other AWS customers.
+You can also explore software solutions by industry and use case. For example, suppose that your company is in the healthcare industry. In AWS Marketplace, you can review use cases that software helps you to address, such as implementing solutions to protect patient records or using machine learning models to analyze a patient’s medical history and predict possible health risks.
+![Marketplace](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/M30xtJaNQqC9MbSWjaKgOw_a4dbb5b4c69348c4a5725b7023ae65f1_Screen-Shot-2022-07-22-at-3.00.49-PM.png?expiry=1665532800000&hmac=KSFvmh5lopD8sV7s1xfLeHvxU3IU4yFtuSFQbY89NGY)
