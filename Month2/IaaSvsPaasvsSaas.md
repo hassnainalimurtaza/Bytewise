@@ -18,5 +18,7 @@ Examples of PaaS solutions include  AWS Elastic Beanstalk, Google App Engine
 Software as a Service, also known as cloud application services, represents the most commonly utilized option for businesses in the cloud market. SaaS utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users. A majority of SaaS applications run directly through your web browser, which means they do not require any downloads or installations on the client side.
 Dropbox, Salesforce, Google Apps, and Red Hat Insights are some examples of SaaS. 
 
-[RedHat](https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas)
-[IBM](https://www.ibm.com/cloud/learn/iaas-paas-saas)
+--- 
+> [RedHat](https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas)
+
+> [IBM](https://www.ibm.com/cloud/learn/iaas-paas-saas)
